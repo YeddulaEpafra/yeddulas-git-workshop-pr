@@ -5,6 +5,6 @@ A repository open for contributions from everyone who follows the Git, GitHub, a
 
 Add your name to the contribution list by using pull requst.
 # Contribution List
--Mohan Raj
+- Mohan Raj
 - Hanok
 - Sai Venkatesh
