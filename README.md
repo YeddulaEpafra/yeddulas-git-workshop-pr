@@ -4,4 +4,3 @@
 - Hanok
 - Sai Venkatesh
 - Baskar
-- Sunil Kumar
